@@ -1,16 +1,15 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
+title:      js事件绑定
+subtitle:   事件委托
 date:       2017-01-06
-author:     BY
+author:     jacob
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - 代理
+    - 事件冒泡
+    - 委托
 ---
 # 前言
 
