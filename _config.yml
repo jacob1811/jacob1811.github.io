@@ -54,18 +54,18 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
+# Disqus（https://disqus.com/）
 disqus_username: jacob1811
 
 # Gitalk
-#gitalk:
- # enable: true    #是否开启Gitalk评论
- # clientID: 4e76b7a510281362c846                           #生成的clientID
- # clientSecret: 6ecfc450101e8149c09d05ea91c7275c29a101f5    #生成的clientSecret
- # repo: jacob1811.github.io    #仓库名称
- # owner: jacob1811    #github用户名
- # admin: jacob1811
- # distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: false    #是否开启Gitalk评论
+  clientID: 4e76b7a510281362c846                           #生成的clientID
+  clientSecret: 6ecfc450101e8149c09d05ea91c7275c29a101f5    #生成的clientSecret
+  repo: jacob1811.github.io    #仓库名称
+  owner: jacob1811    #github用户名
+  admin: jacob1811
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
