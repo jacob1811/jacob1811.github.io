@@ -103,13 +103,13 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     },{
-        title:"ionic",
-        href:"https://ionicframework.com/docs/"
+        title: "ionic",
+        href: "https://ionicframework.com/docs/"
     },{
-        title:"Angular4 修仙之路",
-        href:"https://segmentfault.com/a/1190000008754631"
+        title: "Angular4 修仙之路",
+        href: "https://segmentfault.com/a/1190000008754631"
     },{
-        title:"JS MDN web docs",
-        href:"https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects"
+        title: "JS MDN web docs",
+        href: "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects"
     }
 ]
