@@ -4,7 +4,7 @@ SEOTitle: jacob的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: jacob1811@163.com
 description: "Practice makes perfect."
-keyword: "BY, BY Blog, 初永辉的博客, qiubaiying, 初永辉, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 初永辉的博客, 初永辉, iOS, Apple, js,Angular,ionic"
 url: "http://jacob1811.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jacob1811/jacob1811.github.io.git" # you code repository
@@ -102,5 +102,14 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title:"ionic",
+        href:"https://ionicframework.com/docs/"
+    },{
+        title:"Angular4 修仙之路",
+        href:"https://segmentfault.com/a/1190000008754631"
+    },{
+        title:"JS MDN web docs",
+        href:"https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects"
     }
 ]
